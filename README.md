@@ -34,7 +34,7 @@ Help organizations enhance employee retention, reduce operational costs, and fos
 
 ## 📂 DATASET
 A hypothetical dataset by IBM with **1470 rows × 35 columns**, detailing employee demographics, job roles, satisfaction levels, and attrition status.  
-🔗 [Dataset Link]([https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset))
+🔗 [Dataset Link]((https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset))
 
 ---
 
